@@ -1,6 +1,6 @@
 import os
 import sys
-import cv2
+import cv2.cv2 as cv2
 import numpy
 from moviepy import editor
 import streamlit as st
